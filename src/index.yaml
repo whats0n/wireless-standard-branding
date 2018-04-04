@@ -1,0 +1,5 @@
+ProjectTitle: standard-branding
+
+PageList:
+- file: page.html
+  ready: 50
